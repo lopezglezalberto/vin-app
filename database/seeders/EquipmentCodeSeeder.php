@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 use App\Models\EquipmentCode;
 
@@ -12,7 +14,6 @@ class EquipmentCodeSeeder extends Seeder
      */
     public function run()
     {
-        
         $equipment_code = [
             
             [
