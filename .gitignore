@@ -1,4 +1,6 @@
 /public/hot
+/vendor
+/node_modules
 /public/storage
 /storage/*.key
 .env.backup
